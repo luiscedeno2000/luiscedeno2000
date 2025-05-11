@@ -12,7 +12,6 @@ Ingeniero en Sistemas y desarrollador de aplicaciones **web**, **móviles** y **
 - 🗄️ **Databases**: MySQL, SQLite, Oracle  
 - 📊 **Data Management**: Python, R, Pandas, NumPy, Matplotlib, Classification, Regression, Clustering, Decision Trees, Association Rules  
 - 🖼️ **Computer Vision**: OpenCV, Python (Image Processing, Object Detection, Segmentation)  
-- 📈 **Other**: Machine Learning, Deep Learning, TensorFlow, Keras  
 
 
 ## 📈 Estadísticas de mi GitHub
